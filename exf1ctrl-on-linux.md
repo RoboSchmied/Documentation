@@ -14,13 +14,15 @@ git clone https://github.com/jsolsen/exf1ctrl.git exf1ctrl-read-only
 
 ```
 
-```Klone nach 'exf1ctrl-read-only'...
+```
+Klone nach 'exf1ctrl-read-only'...
 remote: Counting objects: 563, done.
 remote: Compressing objects: 100% (14/14), done.
 remote: Total 563 (delta 0), reused 0 (delta 0), pack-reused 549
 Empfange Objekte: 100% (563/563), 7.87 MiB | 206.00 KiB/s, Fertig.
 Löse Unterschiede auf: 100% (264/264), Fertig.
-Prüfe Konnektivität... Fertig.```
+Prüfe Konnektivität... Fertig.
+```
 
 first try
 
