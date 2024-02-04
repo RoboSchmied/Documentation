@@ -1,6 +1,6 @@
 ## compile [exf1ctrl](https://github.com/jsolsen/exf1ctrl) on Linux
 
-Get your [Casio EX-F1](http://www.casio-europe.com/de/exilim/exilimhighspeed/exf1/) High Speed Camera controlled by command line tool or script on a small open source embedded linux machine like [CubieBoard](http://cubieboard.org) or [Odroid](http://www.hardkernel.com).
+Control your Casio EX-F1 (High Speed Camera) by command line tool or script using a small open source embedded linux machine like [CubieBoard](http://cubieboard.org) or [Odroid](http://www.hardkernel.com).
 
 tested on: [Cubian](http://www.cubian.org), [Linaro](http://www.linaro.org), [Ubuntu](http://www.ubuntu.com), [Debian](http://www.debian.org/) and [OpenWrt](http://www.openwrt.org/)
 
