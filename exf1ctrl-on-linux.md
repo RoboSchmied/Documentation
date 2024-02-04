@@ -1,20 +1,18 @@
-compile exf1ctrl on Linux
-----
+## compile [exf1ctrl](https://github.com/jsolsen/exf1ctrl) on Linux
 
-get compiler and tools 
+### get compiler and tools 
 ```
 sudo apt-get update
 sudo apt-get install build-essential git
 ```
 
-get source
+### get source
 
 ```
 git clone https://github.com/jsolsen/exf1ctrl.git exf1ctrl-read-only
-
 ```
 
-```
+```console
 Klone nach 'exf1ctrl-read-only'...
 remote: Counting objects: 563, done.
 remote: Compressing objects: 100% (14/14), done.
@@ -24,14 +22,14 @@ Löse Unterschiede auf: 100% (264/264), Fertig.
 Prüfe Konnektivität... Fertig.
 ```
 
-first try
+### first try
 
 ```
 cd exf1ctrl-read-only/prj/NetBeans/exf1Ctrl/
 make
 ```
 
-```
+```console
 In file included from ../../../src/libexf1.h:11:0,
                  from ../../../src/exf1api.h:11,
                  from ../../../src/exf1ctrl.h:11,
@@ -40,14 +38,14 @@ In file included from ../../../src/libexf1.h:11:0,
      #include
 ```
 
-install missing libusb-dev
+### install missing libusb-dev
 
 ```
 sudo apt-get install libusb-dev
 make 
 ```
 
-```
+```console
 g++    -c -g -I/usr/local/include/opencv/ -MMD -MP -MF build/Debug/GNU-Linux-x86/_ext/1386528437/exf1ctrl.o.d -o build/Debug/GNU-Linux-x86/_ext/1386528437/exf1ctrl.o ../../../src/exf1ctrl.cpp
 In file included from ../../../src/exf1ctrl.h:11:0,
                  from ../../../src/exf1ctrl.cpp:11:
@@ -57,17 +55,17 @@ In file included from ../../../src/exf1ctrl.h:11:0,
 compilation terminated.
 ```
 
-install missing lib
+### install missing lib
 ```
 sudo apt-get install libopencv-dev
 ```
 
-In this case cv is expected in /usr/local/include, but located in /usr/include, so link it: 
+#### In this case cv is expected in /usr/local/include, but located in /usr/include, so link it: 
 ```
 sudo ln -s /usr/include/opencv /usr/local/include/opencv
 make
 ```
-```
+```console
 g++    -c -g -I/usr/local/include/opencv/ -MMD -MP -MF build/Debug/GNU-Linux-x86/_ext/1386528437/exf1api.o.d -o build/Debug/GNU-Linux-x86/_ext/1386528437/exf1api.o ../../../src/exf1api.cpp
 make[2]: *** Keine Regel vorhanden, um das Target »/usr/lib/arm-linux-gnueabi/libusb.a«, 
   benötigt von »dist/Debug/GNU-Linux-x86/exf1ctrl«, zu erstellen.  Schluss.
@@ -75,34 +73,34 @@ make[2]: Leaving directory `/home/cubie/TRUNK/exf1ctrl-read-only/prj/NetBeans/ex
 make[1]: *** [.build-conf] Fehler 2
 ```
 
-link /usr/lib/arm-linux-gnueabihf/  to /usr/lib/arm-linux-gnueabi/
+### link /usr/lib/arm-linux-gnueabihf/  to /usr/lib/arm-linux-gnueabi/
 ```
 sudo ln -s /usr/lib/arm-linux-gnueabihf /usr/lib/arm-linux-gnueabi
 make
 ```
 
-# compiling done 
+### compiling done 
 
 ```
 cd dist/Debug/GNU-Linux-x86/
 ./exf1ctrl 
 ```
 
-```
+```console
 > Initializing camera... 
  Error: setting config 1. 
 usbStart failed!
 ```
 
-start as superuser
+### start as superuser
 
 ```
 sudo ./exf1ctrl 
 ```
 
-it works
+### it works
 
-```
+```console
  ********************************************************************
  *                                                                  *
  *  ExF1Ctrl ver. 0.2                                               *
