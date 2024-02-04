@@ -1,4 +1,4 @@
-## compile [exf1ctrl](https://github.com/jsolsen/exf1ctrl) on Linux
+## Compile [exf1ctrl](https://github.com/jsolsen/exf1ctrl) on Linux
 
 Control your Casio EX-F1 (High Speed Camera) by command line tool or script using a small open source embedded linux machine like [CubieBoard](http://cubieboard.org) or [Odroid](http://www.hardkernel.com).
 
