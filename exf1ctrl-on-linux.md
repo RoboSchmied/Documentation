@@ -4,13 +4,13 @@ Control your Casio EX-F1 (High Speed Camera) by command line tool or script usin
 
 tested on: [Cubian](http://www.cubian.org), [Linaro](http://www.linaro.org), [Ubuntu](http://www.ubuntu.com), [Debian](http://www.debian.org/) and [OpenWrt](http://www.openwrt.org/)
 
-### get compiler and tools 
+### get compiler and tools: 
 ```
 sudo apt-get update
 sudo apt-get install build-essential git
 ```
 
-### get source
+### get source:
 
 ```
 git clone https://github.com/jsolsen/exf1ctrl.git exf1ctrl-read-only
@@ -26,7 +26,7 @@ Löse Unterschiede auf: 100% (264/264), Fertig.
 Prüfe Konnektivität... Fertig.
 ```
 
-### first try
+### first try:
 
 ```
 cd exf1ctrl-read-only/prj/NetBeans/exf1Ctrl/
@@ -42,7 +42,7 @@ In file included from ../../../src/libexf1.h:11:0,
      #include
 ```
 
-### install missing libusb-dev
+### install missing libusb-dev:
 
 ```
 sudo apt-get install libusb-dev
@@ -59,7 +59,7 @@ In file included from ../../../src/exf1ctrl.h:11:0,
 compilation terminated.
 ```
 
-### install missing lib
+### install missing lib:
 ```
 sudo apt-get install libopencv-dev
 ```
@@ -83,7 +83,7 @@ sudo ln -s /usr/lib/arm-linux-gnueabihf /usr/lib/arm-linux-gnueabi
 make
 ```
 
-### compiling done 
+### compiling done: 
 
 ```
 cd dist/Debug/GNU-Linux-x86/
@@ -96,13 +96,13 @@ cd dist/Debug/GNU-Linux-x86/
 usbStart failed!
 ```
 
-### start as superuser
+### start as superuser:
 
 ```
 sudo ./exf1ctrl 
 ```
 
-### it works
+### it works:
 
 ```console
  ********************************************************************
