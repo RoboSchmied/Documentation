@@ -83,7 +83,7 @@ sudo ln -s /usr/lib/arm-linux-gnueabihf /usr/lib/arm-linux-gnueabi
 make
 ```
 
-### compiling done: 
+### compiling done
 
 ```
 cd dist/Debug/GNU-Linux-x86/
@@ -102,7 +102,7 @@ usbStart failed!
 sudo ./exf1ctrl 
 ```
 
-### it works:
+### it works
 
 ```console
  ********************************************************************
