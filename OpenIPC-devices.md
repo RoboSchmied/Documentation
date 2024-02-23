@@ -8,17 +8,13 @@
 
 ### Device table for customization
 
-
-* [ssc30kq-imx335-anjoy](#ssc335-imx307-anjoy)
-* [ssc335-imx307-anjoy](#ssc335-imx307-anjoy)
-* [ssc335de-imx335-anjoy](#ssc335de-imx335-anjoy)
-* [t31l-sc2335-camhi](#t31l-sc2335-camhi)
+* [gk7205v210-sc223a-okaidi](#gk7205v210-sc223a-okaidi)
 
 
 -------
 
 
-### gk7205v210 sc223a 
+### gk7205v210-sc223a-okaidi 
 
 
 ```
