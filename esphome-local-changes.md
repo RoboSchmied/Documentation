@@ -15,3 +15,6 @@ external_components:
       path: components
     components: [ soyosource_virtual_meter ]
 ```
+
+At the end I used [this file](esp8266-wifi-dongle-limiter-Web.Local.yaml) for building the firmware for my inverter wifi dongle. 
+It has a web server, uses mqtt for publishing inverter data factoring my local changes to the project.
