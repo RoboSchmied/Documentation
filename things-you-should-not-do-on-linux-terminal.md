@@ -4,7 +4,6 @@ Some times I do stupid things only to fix some other stupidities.
 Here some examples of unpleasant moves:
 
 ## rename /lib64
- 
 ```
 sudo mv /lib64 /li64
 ```
@@ -20,9 +19,12 @@ Boot from another drive and rename the directory(link) back to /lib64.
 ```
 sudo mv /li64 /lib64
 ```
+
  
 ## rm *
-
+```
+rm *
+```
 Using command history allot, I (as root) accidental ended up removing `*` in `/`.
 
 ### Prevention:
