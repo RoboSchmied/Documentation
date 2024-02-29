@@ -22,8 +22,8 @@ cli -s .system.staticDir /var/www/majestic
 cli -s .nightMode.enabled true
 cli -s .nightMode.irCutPin1 9
 cli -s .nightMode.irCutPin2 8
-cli -s .nightMode.minThreshold 3000
-cli -s .nightMode.maxThreshold 5000
+cli -s .nightMode.minThreshold 6000
+cli -s .nightMode.maxThreshold 14000
 cli -s .nightMode.colorToGray false
 cli -s .nightMode.drcOverride 300
 cli -s .nightMode.dncDelay 1
