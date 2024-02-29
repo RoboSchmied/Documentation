@@ -2,8 +2,6 @@
 
 ## OpenIPC settings
 
-[![OpenIPC][site]][site_basic]  [![Telegram][chat]][telegram_en]
-
 **This page is personal notes by @RoboSchmied for public reading only and may not be edited by others**
 
 ### Device table for customization
