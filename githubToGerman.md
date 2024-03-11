@@ -8,4 +8,4 @@
 | Merge | neuen Code einbauen (verschmelzen) |
 | Issue | Sachfrage zu Problem, Verbesserungsvorschlag, Thema, Diskussion |
 | Fork | Zweig - Kopie eines fremden Projektarchives zur eigenen Bearbeitung |
-| Branch | Abzweig in Projektarchiv, Fachgebiet
+| Branch | Abzweig innerhalb Projektarchiv, Fachgebiet |
