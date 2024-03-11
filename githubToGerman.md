@@ -1,4 +1,6 @@
-| Translation for github Language | Übersetzungen für die wichtigsten Aktionen |
+## Translation of Github English to German
+
+| Github | Übersetzungen für die wichtigsten Aktionen |
 |---|---|
 | Repository | Ein Projektarchiv (Quelle) |
 | Commit | Code Änderungen (möglichst nur ein Problem betreffend) | 
