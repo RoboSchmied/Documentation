@@ -49,10 +49,16 @@ After removing + fixing this it worked normally as before.
 <img src="IMG/EX-F1-024.jpg " width="800" >
 <img src="IMG/EX-F1-025.jpg " width="800" >
 
+## This step was hard to find
+
+- this is necessary to get into the zoom optic  
 <img src="IMG/EX-F1-028.jpg " width="800" >
 <img src="IMG/EX-F1-029.jpg " width="800" >
 <img src="IMG/EX-F1-030.jpg " width="800" >
 <img src="IMG/EX-F1-031.jpg " width="800" >
+
+## It works again  :)
+
 <img src="IMG/EX-F1-032.jpg " width="800" >
 
 ### Tip 
