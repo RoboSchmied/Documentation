@@ -18,13 +18,14 @@ After removing + fixing this it worked normally as before.
 
 <img src="IMG/EX-F1-032.jpg " width="800" >
 
-## Flash Light
+## Flash Light removal
+- no need to do this for disassembly
 
 <img src="IMG/EX-F1-002.jpg " width="800" >
 <img src="IMG/EX-F1-003.jpg " width="800" >
 <img src="IMG/EX-F1-004.jpg " width="800" >
 
-## Backside
+## Backside removal
 
 <img src="IMG/EX-F1-005.jpg " width="800" >
 <img src="IMG/EX-F1-012.jpg " width="800" >
