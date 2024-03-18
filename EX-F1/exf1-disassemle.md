@@ -61,7 +61,13 @@ After removing + fixing this it worked normally as before.
 - It is necessary to get into the zoom optic.  
 <img src="IMG/EX-F1-028.jpg " width="800" >
 <img src="IMG/EX-F1-029.jpg " width="800" >
+
+## After that it was easy to fix it
+
 <img src="IMG/EX-F1-030.jpg " width="800" >
+
+# Here you see the broken part
+
 <img src="IMG/EX-F1-031.jpg " width="800" >
 
 ## It works again  :)
