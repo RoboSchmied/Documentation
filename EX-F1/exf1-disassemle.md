@@ -1,7 +1,7 @@
 # Disassembling Casio Exilim F1 pro (EX-F1)
 
 ## What is Ex-F1 ?
-- a High Speed Camera from Casio (Sony Sensor) able to capture 1200 fps
+- a High Speed Camera from Casio (Sony sensor) able to capture 1200 fps
 
 ## What happened ?
 
