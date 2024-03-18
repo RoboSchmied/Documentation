@@ -69,7 +69,7 @@ After removing + fixing this it worked normally as before.
 
 <img src="IMG/EX-F1-030.jpg " width="800" >
 
-# Here you see the broken part
+## Here you see the broken part
 
 <img src="IMG/EX-F1-031.jpg " width="800" >
 
