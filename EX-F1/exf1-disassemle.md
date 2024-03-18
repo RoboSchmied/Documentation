@@ -27,17 +27,17 @@ After removing + fixing this it worked normally as before.
 
 ## Backside removal
 
-<img src="IMG/EX-F1-005.jpg " width="800" >
 <img src="IMG/EX-F1-012.jpg " width="800" >
 <img src="IMG/EX-F1-013.jpg " width="800" >
+<img src="IMG/EX-F1-007.jpg " width="800" >
+<img src="IMG/EX-F1-005.jpg " width="800" >
+<img src="IMG/EX-F1-006.jpg " width="800" >
 <img src="IMG/EX-F1-014.jpg " width="800" >
 <img src="IMG/EX-F1-015.jpg " width="800" >
 <img src="IMG/EX-F1-016.jpg " width="800" >
 <img src="IMG/EX-F1-017.jpg " width="800" >
 <img src="IMG/EX-F1-018.jpg " width="800" >
 
-<img src="IMG/EX-F1-006.jpg " width="800" >
-<img src="IMG/EX-F1-007.jpg " width="800" >
 <img src="IMG/EX-F1-008.jpg " width="800" >
 <img src="IMG/EX-F1-009.jpg " width="800" >
 <img src="IMG/EX-F1-010.jpg " width="800" >
