@@ -49,12 +49,13 @@ After removing + fixing this it worked normally as before.
 
 ## Sensor
 
+<img src="IMG/EX-F1-021.jpg " width="800" >
+<img src="IMG/EX-F1-025.jpg " width="800" >
+<img src="IMG/EX-F1-022.jpg " width="800" >
 <img src="IMG/EX-F1-019.jpg " width="800" >
 <img src="IMG/EX-F1-020.jpg " width="800" >
-<img src="IMG/EX-F1-021.jpg " width="800" >
-<img src="IMG/EX-F1-022.jpg " width="800" >
+
 <img src="IMG/EX-F1-023.jpg " width="800" >
-<img src="IMG/EX-F1-025.jpg " width="800" >
 
 ## This step was hard to find
 
