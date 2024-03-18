@@ -60,6 +60,8 @@ After removing + fixing this it worked normally as before.
 ## This step was hard to find
 
 - It is necessary to get into the zoom optic.  
+- The ring is just glued on top of the screws.
+
 <img src="IMG/EX-F1-028.jpg " width="800" >
 <img src="IMG/EX-F1-029.jpg " width="800" >
 
