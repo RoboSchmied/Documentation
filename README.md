@@ -3,7 +3,7 @@
 
 ### EX-F1
 - [Disassemble `Ex-F1` high speed camera](EX-F1/exf1-disassemle.md)
-- <img src="EX-F1/IMG/EX-F1-027.jpg" width="300">
+- <img src="IMG/EX-F1.gif"> 
 - [Compile `exf1ctrl` on linux](EX-F1/exf1ctrl-on-linux.md)
 ### OpenIPC
 - [Image Sensor `sc223a` in OpenIPC](sc223a.md)
