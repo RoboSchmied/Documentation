@@ -48,10 +48,10 @@ After removing + fixing this it worked normally as before.
 <img src="IMG/EX-F1-011.jpg " width="800" >
 <img src="IMG/EX-F1-024.jpg " width="800" >
 
-## Sensor
+## Image Sensor
 
-<img src="IMG/EX-F1-021.jpg " width="800" >
 <img src="IMG/EX-F1-025.jpg " width="800" >
+<img src="IMG/EX-F1-021.jpg " width="800" >
 <img src="IMG/EX-F1-022.jpg " width="800" >
 <img src="IMG/EX-F1-019.jpg " width="800" >
 <img src="IMG/EX-F1-020.jpg " width="800" >
