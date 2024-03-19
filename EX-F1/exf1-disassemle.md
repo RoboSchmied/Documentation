@@ -1,7 +1,7 @@
 # Disassembling Casio Exilim F1 pro (EX-F1)
 
 ## What is Ex-F1 ?
-- a High Speed Camera from Casio (Sony sensor) able to capture 1200 fps
+- a High Speed Camera from Casio (Sony sensor) capable of capturing 1200 fps
 
 ## What happened ?
 
@@ -81,5 +81,5 @@ After removing + fixing this it worked normally as before.
 ### Tips 
 
 - Turning the cam upside down (+ sometimes shaking a bit) made it possible starting (passing optics test) with the damaged optic.
-- Remember every screw position exacly! There are many kinds and sizes of screws on this camera.
+- Remember every screw position exactly! There are many kinds and sizes of screws on this camera.
 - Keep the sensor and lenses clean. Wear gloves! 
