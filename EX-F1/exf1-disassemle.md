@@ -17,6 +17,7 @@ After removing + fixing this it worked normally as before.
 ## First Run while Repair
 
 <img src="IMG/EX-F1-032.jpg " width="800" >
+<img src="IMG/EX-F1.gif ">
 
 ## Flash Light removal
 - no need to do this for disassembly
