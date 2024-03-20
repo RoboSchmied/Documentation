@@ -1,6 +1,6 @@
-# Translation of Git English to German
+# Translation of `Git English` to `German`
 
-## Übersetzung von Git Englisch in Deutsch
+## Übersetzung von `Git Englisch` nach `Deutsch`
 
 | Github | Übersetzungen für die wichtigsten Aktionen / Begriffe |
 |---|---|
