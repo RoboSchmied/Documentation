@@ -1,6 +1,8 @@
-## Translation of Github English to German
+# Translation of Git English to German
 
-| Github | Übersetzungen für die wichtigsten Aktionen |
+## Übersetzung von Git Englisch in Deutsch
+
+| Github | Übersetzungen für die wichtigsten Aktionen / Begriffe |
 |---|---|
 | `Repo`sitory | Ein Projektarchiv (Quelle) |
 | `Clone` | lokale Kopie eines `Repo`s zur Bearbeitung |
@@ -11,7 +13,7 @@
 | `Fork` | Zweig - Kopie eines fremden Projektarchives auf Server zur eigenen Bearbeitung |
 | `Branch` | Abzweig innerhalb Projektarchiv, Fachgebiet |
 
-## Usage
+## Nutzung / Zuordnung
 
 | Github | Quelle | Ziel |
 |---|---|---|
